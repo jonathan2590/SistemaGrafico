@@ -1,0 +1,16 @@
+[2017-09-27 05:36:25.000000 ::1 - 20170927053625-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-27 05:36:27.000000 ::1 - 20170927053627-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-27 07:21:07.000000 192.168.100.14 - 20170927072107-INFO ] Usuario :: User :: validacion de usuario exitoso
+[2017-09-27 07:21:13.000000 192.168.100.14 - 20170927072113-INFO ] Usuario :: User :: ingreso correcta IP: 192.168.100.14 HTTP_HOST: 192.168.100.224:88 HTTP_REFERER: http://192.168.100.224:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Linux; Android 6.0.1; D6503 Build/23.5.A.1.291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-27 08:35:58.000000 ::1 - 20170927083558-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-27 08:36:00.000000 ::1 - 20170927083600-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-27 09:02:19.000000 ::1 - 20170927090219-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-27 09:02:40.000000 ::1 - 20170927090240-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-27 09:03:12.000000 ::1 - 20170927090312-ERROR ] Usuario :: use :: no existe / No tiene Asignado ninguna empresa
+[2017-09-27 09:03:38.000000 ::1 - 20170927090338-ERROR ] Usuario :: jona :: no existe / No tiene Asignado ninguna empresa
+[2017-09-27 09:03:43.000000 ::1 - 20170927090343-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-27 09:03:47.000000 ::1 - 20170927090347-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-27 09:04:22.000000 ::1 - 20170927090422-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-27 09:04:24.000000 ::1 - 20170927090424-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-27 09:14:57.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-27 09:15:09.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE

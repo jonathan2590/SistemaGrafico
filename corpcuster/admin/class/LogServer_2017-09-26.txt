@@ -1,0 +1,5 @@
+[2017-09-26 08:01:57.000000 ::1 - ERROR ] Usuario :: user1 :: no existe / No tiene Asignado ninguna empresa
+[2017-09-26 08:02:01.000000 ::1 - INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-26 08:02:08.000000 ::1 - ERROR ] Usuario :: user :: password incorrecto
+[2017-09-26 08:02:11.000000 ::1 - INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3221.0 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-26 08:13:52.000000 ::1 - INFO ] Subida de Archivo CSV :: PRE

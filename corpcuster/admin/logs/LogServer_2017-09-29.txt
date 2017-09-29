@@ -1,0 +1,6 @@
+[2017-09-29 05:14:23.000000 ::1 - 20170929051422-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-29 05:14:25.000000 ::1 - 20170929051425-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php
+[2017-09-29 05:58:48.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-29 06:44:56.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-29 06:45:16.000000 ::1 - 20170929064516-INFO ] Usuario :: user :: validacion de usuario exitoso
+[2017-09-29 06:45:18.000000 ::1 - 20170929064518-INFO ] Usuario :: user :: ingreso correcta IP: ::1 HTTP_HOST: localhost:88 HTTP_REFERER: http://localhost:88/corpcuster/login.php HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3223.8 Safari/537.36 REQUEST_URI: /corpcuster/admin/class/login/consulta_login.php

@@ -1,0 +1,8 @@
+[2017-09-26 08:45:01.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:06.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:07.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:09.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:11.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:17.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:17.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
+[2017-09-26 08:45:17.000000 ::1 - 1003-INFO ] Subida de Archivo CSV :: PRE
